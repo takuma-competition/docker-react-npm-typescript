@@ -2,8 +2,8 @@
 ## 概要
 - `typescript`を使用して`npm`で`react`を起動する`dockerfile`と手順を記したリポジトリ。
 - 詳細な使用方法は、以下のQiitaか個人ブログを参照。
-   	1. [【環境構築】DockerでReactをnpmを使用して作成&起動する方法（JavaScript編）](https://qiita.com/takuma-1234/items/02d5683ea54c3c16b38c)
-	2. [【環境構築】DockerでReactをnpmを使用して作成&起動する方法（JavaScript編）](https://takuma-tech.com/2023/04/21/574/)
+   	1. [【環境構築】DockerでReactをnpmを使用して作成&起動する方法（TypeScript編）](https://qiita.com/takuma-1234/items/d92dbed1c0b2ce2f5ca0)
+	2. [【環境構築】DockerでReactをnpmを使用して作成&起動する方法（TypeScript編）](https://takuma-tech.com/2023/04/21/580/)
     
     
 ### Docker起動コマンド
